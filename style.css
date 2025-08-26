@@ -813,7 +813,7 @@ a:link {
     font-size: 22px;
         text-align: center;
 /*     width: 150px; */
-    margin: 10px;
+    margin: 20px;
     align-items: center;
     justify-content: center;
 /*     flex-direction: column; */
@@ -824,7 +824,7 @@ a:link {
   img {
     border-radius: 8px;
     /*     width: fit; */
-    margin: 10px;
+    margin: 20px;
     max-height: 300px;
     /*       object-fit: auto; */
     /*     align-content: center; */
